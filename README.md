@@ -6,4 +6,3 @@ The problem statement of each assignment is attached in the respective folder. <
 Assignment 1: Python <br>
 Assignment 2: Web3 <br>
 Assignment 3: Solidity <br>
-Assignment 4: Hyperledger Fabric
